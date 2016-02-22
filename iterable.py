@@ -1,7 +1,12 @@
 # -*- ecoding:utf-8 -*-
 
-#2016-2-20
-print "hello China!"
+<<<<<<< HEAD
+#2016-2-22
+print "hello world!"
+=======
+#2016-2-22
+print "hello world!"
+>>>>>>> feature1
 
 import random
 
